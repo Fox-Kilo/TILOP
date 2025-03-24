@@ -1,1 +1,4 @@
+#terminal用コマンド_備忘録
 
+- シンボリックリンク作成
+``` ln -s <pass> <location of link>
